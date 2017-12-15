@@ -1,0 +1,3 @@
+REGEX:
+
+1. Integer: ^\s*[+-]?\d+\s*$
