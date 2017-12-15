@@ -1,3 +1,4 @@
 REGEX:
 
 1. Integer: ^\s*[+-]?\d+\s*$
+2. Slug: /^[a-z0-9-]+$/
